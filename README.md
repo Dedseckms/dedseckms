@@ -33,7 +33,7 @@
 <div align="center">
 
 <a href="https://github.com/Dedseckms/MineDed">
-  <img src="https://raw.githubusercontent.com/Dedseckms/MineDed/main/docs/changelog/1.2.1.png" width="640" alt="MineDed 1.2.1">
+  <img src="https://raw.githubusercontent.com/Dedseckms/MineDed/main/docs/changelog/1.6.0.png" width="640" alt="MineDed 1.2.1">
 </a>
 
 </div>
