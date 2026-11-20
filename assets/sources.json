@@ -1,0 +1,30 @@
+[
+  {
+    "commit": "c7c27759d46739b59339ac791a1451755f5de8f4",
+    "url": "https://raw.githubusercontent.com/Dedseckms/MineDed/c7c27759d46739b59339ac791a1451755f5de8f4/site/screenshots/play-ru.webp",
+    "name": "mineded.webp",
+    "path": "site/screenshots/play-ru.webp",
+    "repo": "MineDed"
+  },
+  {
+    "commit": "2fbdf187cc41700aa2fc992bfa7e2f55dd7f8741",
+    "url": "https://raw.githubusercontent.com/Dedseckms/Dedsec-Music/2fbdf187cc41700aa2fc992bfa7e2f55dd7f8741/docs/assets/desktop-home.png",
+    "name": "music.png",
+    "path": "docs/assets/desktop-home.png",
+    "repo": "Dedsec-Music"
+  },
+  {
+    "commit": "9aaba0e767caec7420d055a0d6df90b162502a42",
+    "url": "https://raw.githubusercontent.com/Dedseckms/Dedsec-Monitor/9aaba0e767caec7420d055a0d6df90b162502a42/docs/screenshots/dashboard.png",
+    "name": "monitor.png",
+    "path": "docs/screenshots/dashboard.png",
+    "repo": "Dedsec-Monitor"
+  },
+  {
+    "commit": "ab488e533e603fc235d1067888ca5fe37e06802b",
+    "url": "https://raw.githubusercontent.com/Dedseckms/DedsecAI-Studio/ab488e533e603fc235d1067888ca5fe37e06802b/assets/readme/companion.webp",
+    "name": "studio.webp",
+    "path": "assets/readme/companion.webp",
+    "repo": "DedsecAI-Studio"
+  }
+]
