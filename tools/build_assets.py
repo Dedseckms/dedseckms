@@ -10,7 +10,8 @@ SANS = "'Segoe UI', Arial, sans-serif"
 
 def svg(name, w, h, body):
     content = '<svg xmlns="http://www.w3.org/2000/svg" width="%s" height="%s" viewBox="0 0 %s %s">%s</svg>\n' % (w,h,w,h,body)
-    (OUT / name).write_text(content, encoding='utf-8')
+    with (OUT / name).open('w', encoding='utf-8', newline='\n') as handle:
+        handle.write(content)
 
 def text(x,y,value,size=20,color=FG,font=MONO,extra=''):
     return '<text x="%s" y="%s" font-family="%s" font-size="%s" fill="%s" %s>%s</text>' % (x,y,font,size,color,extra,value)
@@ -43,7 +44,7 @@ body += '''<g fill="none" stroke="#58dfd0" stroke-width="2">
 </g>'''
 body += text(73,462,'D / K',12,'#526875',extra='letter-spacing="3"')
 body += text(1228,462,'CODE → TOOLS → EVERYDAY',12,'#526875',extra='text-anchor="end" letter-spacing="2"')
-svg('hero.svg',1280,470,body)
+svg('hero-dedseckms.svg',1280,470,body)
 
 for key,n,category,title,color,subtitle in [
     ('mineded','01','PLAY','MineDed',GREEN,'MINECRAFT / TOGETHER'),

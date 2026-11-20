@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Dedseckms — независимые приложения под брендом Dedsec. Играть. Слушать. Наблюдать. Создавать.">
+  <img src="assets/hero-dedseckms.svg" width="100%" alt="Dedseckms — независимые приложения под брендом Dedsec. Играть. Слушать. Наблюдать. Создавать.">
 </p>
 
 <p align="center">
