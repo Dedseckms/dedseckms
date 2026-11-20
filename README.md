@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="DedsecKMS — независимые приложения под брендом Dedsec. Играть. Слушать. Наблюдать. Создавать.">
+  <img src="assets/hero.svg" width="100%" alt="Dedseckms — независимые приложения под брендом Dedsec. Играть. Слушать. Наблюдать. Создавать.">
 </p>
 
 <p align="center">
-  <strong>Привет, я DedsecKMS.</strong> Создаю приложения под брендом <strong>Dedsec</strong>.<br>
+  <strong>Привет, я Dedseckms.</strong> Создаю приложения под брендом <strong>Dedsec</strong>.<br>
   Игры с друзьями, своя музыка, контроль системы и локальный AI — у каждой идеи свой инструмент.
 </p>
 

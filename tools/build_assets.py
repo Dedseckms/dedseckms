@@ -28,7 +28,7 @@ body = '''<defs>
 body += text(70,55,'DEDSEC / INDEPENDENT SOFTWARE',18,GREEN,extra='letter-spacing="3"')
 body += text(1230,55,'PROFILE_01',16,MUTED,extra='text-anchor="end"')
 body += text(72,124,'BUILD TO MAKE IT YOURS.',16,MUTED,extra='letter-spacing="3"')
-body += text(65,238,'DedsecKMS',115,FG,SANS,extra='font-weight="700" letter-spacing="-5"')
+body += text(65,238,'Dedseckms',115,FG,SANS,extra='font-weight="700" letter-spacing="-5"')
 body += text(73,295,'Играть. Слушать. Наблюдать. Создавать.',25,'#bdcdd7',SANS)
 body += text(73,378,'OPEN SOURCE',16,GREEN,extra='letter-spacing="2"')
 body += text(255,378,'/',18,'#3a515d')
